@@ -1,0 +1,360 @@
+body{
+  margin: 0px;
+}
+
+#headbar{
+  background-color: #3172A5;
+  height:51px;
+  width: 100%;
+
+}
+
+  #headbar_Con{
+    color:white;
+    font-size:16px;
+    position: absolute;
+    left:170px;
+    float: left;
+  }
+
+  #pic_faceebok{
+    position: absolute;
+    top:10px;
+    right:340px;
+  }
+
+  #pic_twiter{
+    position: absolute;
+    top:14px;
+    right:290px;
+  }
+
+  #pic_skype{
+    position: absolute;
+    top:14px;
+    right:240px;
+  }
+
+  #pic_in{
+    position: absolute;
+    top:12px;
+    right:190px;
+
+  }
+
+.logobar{
+  background-color:white;
+  height: 152px;
+  width: 100%;
+  float: left;
+}
+
+.logo{
+  position:absolute;
+  left:170px;
+  top:60px;
+  float: left;
+}
+
+.addressbar{
+  position: absolute;
+  left:400px;
+  top:55px;
+
+}
+
+.menubar{
+  background-color: black;
+  height:55px;
+  width:100%;
+  float: left;
+  position:sticky;
+    top:0px;
+}
+
+.menu1{
+  height:40px;
+  width:60%;
+  position: absolute;
+  top:8px;
+  left  : 30px;
+}
+
+.menu1 ul{
+  margin: 0px;
+  padding: 0px;
+  list-style-type:none;
+}
+
+.menu1 ul li{
+  float: left;
+  width:150px;
+  height:80px;
+  text-align:center;
+  line-height: 40px;
+  font-size:20px;
+}
+
+.menu1 ul li a{
+  text-decoration: none;
+  color:white;
+  display: block;
+}
+
+.menu1 ul li ul li{
+  width:200px;
+  display:none;
+}
+
+.menu1 ul li ul li{
+  color:black;
+}
+
+.menu1 ul li:hover ul li{
+  display: block;
+
+}
+
+.menu1 ul li ul li a{
+  color: black;
+  background-color: white;
+}
+
+.picture{
+  background-color:white;
+  height: 700px;
+  width: 100%;
+  float: left;
+  padding-top: 40px;
+}
+
+.Mdata{
+  height: 400px;
+  width: 100%;
+  float: left;
+  position: absolute;
+  top: 920px;
+}
+
+.Mdataleft{
+  background-color: white;
+  height: 400px;
+  width:35%;
+  float: left;
+}
+
+.m1{
+  background-color:white;
+  height: 200px;
+  width: 15%;
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 160px;
+  font-size: 30px;
+  color:Black;
+}
+
+.Mdataright{
+  height: 400px;
+  width: 60%;
+  float: left;
+}
+
+.M1{
+  height:350px;
+  width:55%;
+  position: absolute;
+  top:8px;
+  right:140px;
+  font-size: 18px;
+}
+
+.multiple{
+  height:900px;
+  width: 100%;
+  float:left;
+  position: absolute;
+  top:1320px;
+}
+
+.multiple1{
+  height:400px;
+  width:30%;
+  position: absolute;
+  left:100px;
+}
+.multiple2{
+  height:400px;
+  width:30%;
+  position: absolute;
+  right:530px;
+}
+.multiple3{
+  height:400px;
+  width:30%;
+  position: absolute;
+  right:100px;
+}
+.multiple4{
+  height:400px;
+  width:30%;
+  position:absolute;
+  left: 100px;
+  top:430px;
+}
+.multiple5{
+  height:400px;
+  width:30%;
+  position: absolute;
+  top:430px;
+  right:530px;
+}
+.multiple6{
+  height:400px;
+  width:30%;
+  position: absolute;
+  right:100px;
+  top:430px;
+}
+
+.aboutmaestro{
+  background-color:black;
+  width:100%;
+  height:900px;
+  position: absolute;
+  top:2200px;
+}
+
+.centeraboutmaestro{
+  color: white;
+  width: 50%;
+  height:60px;
+  position: absolute;
+  top:60px;
+  left:400px;
+  font-size:34px;
+  text-align:center;
+}
+
+.aboutmaestro1{
+  height:700px;
+  width:38%;
+  position: absolute;
+  left:180px;
+  top:150px;
+  font-size: 20px;
+  line-height:30px;
+  text-align:justify;
+  color: white;
+}
+
+button{
+  background-color:black;
+  color:#66A3FF;
+  border: 4px solid #66A3FF;
+  padding-right:22px;
+  padding-left: 22px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  font-size:20px;
+  margin-top:-30px;
+}
+
+.phoneno{
+  font-size:35px;
+  height:37px;
+  width:50%;
+  position: absolute;
+  left:250px;
+  bottom:25px;
+}
+
+.aboutmaestro2{
+  height:700px;
+  width:38%;
+  position:absolute;
+  right:160px;
+  top:150px;
+}
+
+.highlightimg{
+  height: 500px;
+  width:98%;
+}
+
+.imginfo{
+  background-color:#66A3FF;
+  height: 100px;
+  width: 95%;
+  text-align: center;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+}
+
+.faculty{
+  height:300px;
+  width:100%;
+  position:absolute;
+  top:900px;
+
+}
+
+.lastsec{
+  background-color:#141414;
+  height:600px;
+  width:100%;
+  position:absolute;
+  top:1220px;
+}
+
+.lastsec1{
+  height:500px;
+  width:20%;
+  color: white;
+  position:absolute;
+  left:200px;
+}
+
+.lastsec2{
+  height:400px;
+  width:13%;
+  position:absolute;
+  left:530px;
+}
+
+.lastsec2 p a{
+  text-decoration:none;
+  color:#D9FFF0;
+}
+
+.lastsec3{
+  height:500px;
+  width:20%;
+  position:absolute;
+  right:480px;
+}
+.lastsec3 p a{
+  text-decoration:none;
+  color:#D9FFF0;
+}
+
+.lastsec4{
+  height:500px;
+  width:22%;
+  position:absolute;
+  right:160px;
+}
+
+
+footer{
+  background-color:#080808;
+  height:50px;
+  width:100%;
+  position: absolute;
+  top:1750px;
+  color: white;
+  padding-left:200px;
+  padding-top: 25px;
+}

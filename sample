@@ -1,0 +1,34 @@
+
+
+
+<div class="one"></div>
+<div class="two"></div>
+<div class="three"></div>
+
+
+.one{
+  background-color: pink;
+  height: 400;
+  width: 33%;
+  float: left;
+}
+
+Maestro Intellect
+
+<p>Maestro Intellect is a leading software development company in India
+   and best e-commerce solutions provider in India.</p>
+   <p>We provide software development support for secure, high-performance, web-based and mobile
+      applications.Our software applications cater to the following:</p>
+      <ul>
+        <li>Online Data Collection</li>
+        <li>Data Processing</li>
+        <li>Online e-signature</li>
+        <li>Online Reporting</li>
+        <li> Document management</li>
+        <li>Data Analytic & Business Intelligence.</li>
+      </ul>
+
+      <p>For start-up / small businesses, as a website development company, we help create
+        web sites from scratch and help them maintain web presence. Our SEO ideas have propelled
+        our clients' sites to top positions in major search engines.</p>
+</div>
